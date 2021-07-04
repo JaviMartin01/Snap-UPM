@@ -1,1 +1,1 @@
-University proyect that emulates a message service application.
+University project that emulates a message service application.
